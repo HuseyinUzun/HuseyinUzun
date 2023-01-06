@@ -1,4 +1,6 @@
-Merhaba! Ben 🤓 Hüseyin, Jr.Front End Developer olarak çalışıyorum. Bu GitHub profilimde, öğrendiğim ve geliştirdiğim projeleri paylaşıyorum. 
+Merhaba! Ben Hüseyin, 
+
+Jr.Front End Developer olarak çalışıyorum. Bu GitHub profilimde, öğrendiğim ve geliştirdiğim projeleri paylaşıyorum. 
 
 Özellikle 🔥 Js|CSS|Bootstrap|HTML üzerine yoğunlaşmış projelerim mevcut. Eğer ilginizi çeken bir projem var ise, lütfen benimle iletişime geçin 💬.
 
