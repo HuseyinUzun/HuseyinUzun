@@ -8,6 +8,10 @@ Ayrıca, C# ile backend alanında da kendimi geliştirmeye devam ediyorum, bu y�
 
 İleride birlikte çalışmak isterseniz, lütfen tereddüt etmeden benimle iletişime geçin 🤝. 
 
+Projeleriminde bulunduğu kişisel sitem:
+
+https://huseyinuzun.github.io/
+
 İyi günler! 🌞
 
 
